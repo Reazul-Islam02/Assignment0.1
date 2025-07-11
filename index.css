@@ -85,7 +85,7 @@ header {
 .action img {
     max-width: 250px;
     flex-shrink: 0;
-    /* border-radius: 12px; */
+     border-radius: 12px;
 }
 
 /* Stats Section */
